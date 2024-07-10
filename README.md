@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aarish Alam</h1>
 <h3 align="center">A passionate Data Science student.</h3>
-<p align="centre">
+<p align="center">
   <img height="200" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="Random GiF">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarish22&label=Profile%20views&color=0e75b6&style=flat" alt="aarish22" /> </p>
