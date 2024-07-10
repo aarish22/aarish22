@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aarish Alam</h1>
 <h3 align="center">A passionate Data Science student.</h3>
-<p align="center">
-  <img height="200" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="Random GiF">
-</p>
+<img align ="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarish22&label=Profile%20views&color=0e75b6&style=flat" alt="aarish22" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
 - 📝 I regularly write articles on [https://medium.com/@aarishalam22](https://medium.com/@aarishalam22)
