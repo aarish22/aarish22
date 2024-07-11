@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aarish Alam</h1>
 <h3 align="center">A passionate Data Science student.</h3>
-<img align ="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
+<img align ="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/90456255/211994163-387316d1-1544-48ea-82d6-d0c0ac0a74ae.gif">
 
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=aarish22&label=Profile%20views&color=0e75b6&style=flat" alt="aarish22" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
