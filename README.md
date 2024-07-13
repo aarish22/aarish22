@@ -4,8 +4,8 @@
 
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=aarish22&label=Profile%20views&color=0e75b6&style=flat" alt="aarish22" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-- 🌱 I’m currently learning  **Machine Learning and Deep Learning**
 
+- 🌱 I’m currently learning **Machine Learning and Deep Learning**
 - 📝 I regularly write articles on [https://medium.com/@aarishalam22](https://medium.com/@aarishalam22)
 
 - 📫 How to reach me **aarishalam22@gmail.com**
