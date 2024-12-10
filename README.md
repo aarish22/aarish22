@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aarish </h1>
-<h3 align="center">A passionate Data Science student</h3>
+<h3 align="center">Currently in my ML Arc</h3>
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=aarish22&label=Profile%20views&color=0e75b6&style=flat" alt="aarish22" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
