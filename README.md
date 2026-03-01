@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aarish </h1>
 <h3 align="center">:)</h3>
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
-- 📝 I regularly write articles on [https://medium.com/@aarishalam22](https://medium.com/@aarishalam22)
+- I like backend and ml
 
 - 📫 How to reach me **aarishalam22@gmail.com**
 <h3 align="left">Connect with me:</h3>
