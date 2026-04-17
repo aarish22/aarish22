@@ -3,4 +3,4 @@
 
 - I like backend and ml
 
-- 📫 How to reach me **aarishalam22@gmail.com**
+- How to reach me **aarishalam22@gmail.com**
