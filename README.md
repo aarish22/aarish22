@@ -3,5 +3,5 @@
 
 - I am into backend ,ml and ops
 
-- How to reach me **aarishalam22@gmail.com**
+- Reach me @ **aarishalam22@gmail.com**
 - LinkedIn [https://www.linkedin.com/in/aarishalam22]
