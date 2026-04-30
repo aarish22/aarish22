@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aarish Alam </h1>
+<h1 align="center">Hi,I am Aarish Alam </h1>
 <h3 align="center">:)</h3>
 
 - I am into backend ,ml and ops
